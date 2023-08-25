@@ -33,7 +33,10 @@
                     <input type="text" class="form-control" name="domicilio" id="domicilio" placeholder="introduzca la direccion de habitacion">
                 </div>
 
-                <button type="submit" class="btn btn-primary">Guardar</button>
+                <button type="submit" class="btn btn-primary">Guardar</button><br><br>
+
+                <a href="form_psi.php">Psicologo</a>
+                <a href="form_repre.php">Representante</a>
                 
         
             </form>
