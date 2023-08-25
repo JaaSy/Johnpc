@@ -36,6 +36,8 @@
             <input type="text" class="form-control" id="telefono" placeholder="Telefono">
           </div>
           <button type="submit" class="btn btn-primary">Guardar</button>
+          <a href="form_psi.php">Psicologo</a>
+          <a href="form_paciente.php">Paciente</a>
         </form>
       </div>
     </div>
