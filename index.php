@@ -8,43 +8,25 @@
     <title>SIRCAP</title>
 </head>
 <body>
-    
-<div class="row">
-    <div class="col-4">
-
-        <div class="container">
-            <form>
-                
-                <div class="form-group">
-                    <label>usuario</label>
-                    
-                    <input type="text" class="form-control" name="usuario" id="usuario" placeholder="introduzca usuario">
-                </div>
-
-                <div class="form-group">
-                    <label>contraseña</label>
-                    
-                    <input type="password" class="form-control" name="clave" id="clave" placeholder="introduzca contraseña">
-                </div>
-
+    <div class="row">
+        <div class="col-4">
+            <div class="container">
+                <form>               
+                    <div class="form-group">
+                        <label>usuario</label>
+                        <input type="text" class="form-control" name="usuario" id="usuario" placeholder="introduzca usuario">
+                    </div>
+                    <div class="form-group">
+                        <label>contraseña</label>
+                        <input type="password" class="form-control" name="clave" id="clave" placeholder="introduzca contraseña">
+                    </div>
                     <button type="submit" class="btn btn-primary">ingresar</button>
-                
-        
-            </form>
+                </form>
+            </div>
         </div>
-
     </div>
-
-<div class="col-8">
-
-    <img src="imagenes/princ.png" alt="imagen del cmdnna">
-
-
-
-</div>
-
-</div>
-
+    <div class="col-8">
+        <img src="imagenes/princ.png" alt="imagen del cmdnna">
+    </div>
 </body>
 </html>
-
