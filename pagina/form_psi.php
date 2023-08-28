@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="../css/bootstrap.css">
     <title>Registro de Psicologos</title>
 </head>
 <body>
@@ -23,7 +23,7 @@
             <label for="exampleInputPassword1" class="form-label">Contacto</label>
             <input type="text" class="form-control" id="telefono" placeholder="Telefono">
           </div>
-          <button type="submit" class="btn btn-primary">Guardar</button>
+          <button type="submit" class="btn btn-primary">Guardar</button><br><br>
           <a href="form_paciente.php">Paciente</a>
           <a href="form_repre.php">Representante</a>
         </form>
